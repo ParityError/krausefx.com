@@ -15,13 +15,72 @@ I work on privacy research projects for the iOS platform in my free time. Those 
 
 My privacy research posts and tweets had more than 10,000,000 impressions within just a few weeks. The goal is to raise awareness of what technology can do, and educate on how you, as a user, can protect yourself.
 
-I'm taking a short break on privacy related publications, and launch more projects in 2018.
-
-Feel free to write about any of the topics below, make sure to read the original blog post linked, and feel free to use any of the images and videos provided on [krausefx.com](https://krausefx.com), as long as you reference the original blog post, including my name.
+If you write a story about any of those posts, make sure to read the original blog post linked, and feel free to use any of the images and videos provided on [krausefx.com](https://krausefx.com), as long as you reference the original blog post, including my name.
 
 If you need any additional resources, or have any follow-up questions that are not covered by the blog post, feel free to reach out to me directly, either on [Twitter](https://twitter.com/KrauseFx) or via [email](/about).
 
 ----
+
+<img src="/squarespace_images/static_545299aae4b0e9514fe30c95_54529a29e4b025a90f45cc50_59dc97a83e00bed1b42c0096_1507631710330__img.png_" width="400" align="right" />
+## [steal.password](/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking)
+
+Do you want the user’s Apple ID password, to get access to their Apple account, or to try the same email/password combination on different web services? Just ask your users politely, they’ll probably just hand over their credentials, as they’re trained to do so 👌
+
+One of these is Apple asking you for your password and the other one is a phishing popup that steals your password.
+
+How can you protect yourself? Press the home button and open the iCloud settings manually
+
+<br />
+
+## [Read the full blog post](/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking)
+
+<br />
+
+<div class="press">
+  <a href="https://daringfireball.net/linked/2017/10/10/ios-phishing">
+    <img src="/assets/privacy/DaringFireball.png">
+  </a>
+  <a href="https://lifehacker.com/how-to-stop-ios-apps-from-stealing-your-apple-id-passwo-1819978731">
+    <img src="/assets/privacy/Lifehacker.png">
+  </a>
+  <a href="https://9to5mac.com/2017/10/10/psa-apple-id-phishing-attempt/">
+    <img src="/assets/privacy/9to5.png">
+  </a>
+  <a href="https://www.macrumors.com/2017/10/10/apple-ios-phishing-attack-concept/">
+    <img src="/assets/privacy/MacRumors.png">
+  </a>
+  <a href="https://arstechnica.com/information-technology/2017/10/beware-of-sketchy-ios-popups-that-want-your-apple-id/">
+    <img src="/assets/privacy/ArsTechnica.png">
+  </a>
+  <a href="http://fortune.com/2017/10/10/apple-iphone-password-phishing-scam/?iid=sr-link2">
+    <img src="/assets/privacy/Fortune.jpg">
+  </a>
+  <a href="https://news.ycombinator.com/item?id=15441537">
+    <img src="/assets/privacy/hackernews.ico">
+  </a>
+  <a href="https://motherboard.vice.com/en_us/article/ne7gxz/ios-iphone-password-phishing-app-popups">
+    <img src="/assets/privacy/Motherboard.svg">
+  </a>
+  <a href="https://www.theguardian.com/technology/2017/oct/12/apple-id-iphone-password-demands-security-flaw-phishing-attack-fake-sign-in-request">
+    <img src="/assets/privacy/TheGuardian.png">
+  </a>
+  <a href="https://finance.yahoo.com/news/beware-apple-iphone-password-phishing-174756750.html">
+    <img src="/assets/privacy/Yahoo.jpg">
+  </a>
+  <a href="https://www.wired.com/story/apple-id-password-phishing/">
+    <img src="/assets/privacy/Wired.png">
+  </a>
+  <a href="http://www.dailymail.co.uk/sciencetech/article-5020769/iPhone-apps-silently-turn-camera.html">
+    <img src="/assets/privacy/DailyMail.jpg">
+  </a>
+  <a href="https://www.theregister.co.uk/2017/10/10/apple_ios_password_prompts_phishing/">
+    <img src="/assets/privacy/TheRegister.jpg">
+  </a>
+</div>
+
+----
+
+<img src="/assets/posts/watch-user-screenshot.jpg" style="width: 200px; float: right; border: 2px solid #BBB; margin: 10px" />
 
 ## [watch.user](/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running)
 
@@ -68,67 +127,15 @@ All without indicating that your phone is recording you and your surrounding, no
   <a href="https://www.theregister.co.uk/2017/10/25/ios_apps_camera_spying/">
     <img src="/assets/privacy/TheRegister.jpg">
   </a>
-</div>
-
-----
-
-## [steal.password](/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking)
-
-Do you want the user’s Apple ID password, to get access to their Apple account, or to try the same email/password combination on different web services? Just ask your users politely, they’ll probably just hand over their credentials, as they’re trained to do so 👌
-
-<img src="/squarespace_images/static_545299aae4b0e9514fe30c95_54529a29e4b025a90f45cc50_59dc97a83e00bed1b42c0096_1507631710330__img.png_" width="500" />
-
-One of these is Apple asking you for your password and the other one is a phishing popup that steals your password.
-
-## [Read the full blog post](/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking)
-
-<div class="press">
-  <a href="https://daringfireball.net/linked/2017/10/10/ios-phishing">
-    <img src="/assets/privacy/DaringFireball.png">
-  </a>
-  <a href="https://lifehacker.com/how-to-stop-ios-apps-from-stealing-your-apple-id-passwo-1819978731">
-    <img src="/assets/privacy/Lifehacker.png">
-  </a>
-  <a href="https://9to5mac.com/2017/10/10/psa-apple-id-phishing-attempt/">
-    <img src="/assets/privacy/9to5.png">
-  </a>
-  <a href="https://www.macrumors.com/2017/10/10/apple-ios-phishing-attack-concept/">
-    <img src="/assets/privacy/MacRumors.png">
-  </a>
-  <a href="https://arstechnica.com/information-technology/2017/10/beware-of-sketchy-ios-popups-that-want-your-apple-id/">
-    <img src="/assets/privacy/ArsTechnica.png">
-  </a>
-  <a href="http://fortune.com/2017/10/10/apple-iphone-password-phishing-scam/?iid=sr-link2">
-    <img src="/assets/privacy/Fortune.jpg">
-  </a>
-  <a href="https://news.ycombinator.com/item?id=15441537">
-    <img src="/assets/privacy/hackernews.ico">
-  </a>
-  <a href="https://motherboard.vice.com/en_us/article/ne7gxz/ios-iphone-password-phishing-app-popups">
-    <img src="/assets/privacy/Motherboard.svg">
-  </a>
-  <a href="https://www.theguardian.com/technology/2017/oct/12/apple-id-iphone-password-demands-security-flaw-phishing-attack-fake-sign-in-request">
-    <img src="/assets/privacy/TheGuardian.png">
-  </a>
-  <a href="https://finance.yahoo.com/news/beware-apple-iphone-password-phishing-174756750.html">
-    <img src="/assets/privacy/Yahoo.jpg">
-  </a>
-  <a href="https://www.wired.com/story/apple-id-password-phishing/">
-    <img src="/assets/privacy/Wired.png">
-  </a>
-  <a href="http://www.dailymail.co.uk/sciencetech/article-5020769/iPhone-apps-silently-turn-camera.html">
-    <img src="/assets/privacy/DailyMail.jpg">
-  </a>
-  <a href="https://www.theregister.co.uk/2017/10/10/apple_ios_password_prompts_phishing/">
-    <img src="/assets/privacy/TheRegister.jpg">
+  <a href="https://www.foxnews.com/tech/iphone-apps-with-access-to-your-camera-can-secretly-spy-on-you">
+    <img src="/assets/privacy/FoxNews.png">
   </a>
 </div>
 
 ----
 
+<img src="/squarespace_images/static_545299aae4b0e9514fe30c95_54529a29e4b025a90f45cc50_59db4461cf81e005db7a2062_1507542261614_Screenshot+2017-10-09+11.40.41.png.41.png_" width="500" align="right" />
 ## [detect.location](/blog/ios-privacy-detectlocation-an-easy-way-to-access-the-users-ios-location-data-without-actually-having-access)
-
-<img src="/squarespace_images/static_545299aae4b0e9514fe30c95_54529a29e4b025a90f45cc50_59db4461cf81e005db7a2062_1507542261614_Screenshot+2017-10-09+11.40.41.png.41.png_" width="700" />
 
 Once the user grants access to the image library (e.g. to upload a single photo as a profile picture), an iOS app can
 
@@ -168,7 +175,9 @@ Once the user grants access to the image library (e.g. to upload a single photo 
   </a>
 </div>
 
-Any Mac app, sandboxed or not sandboxed can:
+Sandboxed Mac apps can record your entire screen at any time, without you knowing.
+
+Running the screen through simple OCR software, this allows the attacker to access personal information, like emails, messages, API keys and more
 
 - Take screenshots of your Mac silently without you knowning
 - Access every pixel, even if the Mac app is in the background
@@ -184,6 +193,39 @@ Any Mac app, sandboxed or not sandboxed can:
 - Learn personal information about the user, like their bank details, salary, address, etc.
 
 ## [Read the full blog post](/blog/mac-privacy-sandboxed-mac-apps-can-take-screenshots)
+
+<div class="press">
+  <a href="https://news.ycombinator.com/item?id=16350277">
+    <img src="/assets/privacy/hackernews.ico">
+  </a>
+  <a href="https://www.heise.de/mac-and-i/meldung/Mac-Apps-koennen-heimlich-Bildschirminhalt-aufzeichnen-trotz-Sandbox-3965929.html">
+    <img src="/assets/privacy/heise.svg">
+  </a>
+  <a href="https://daringfireball.net/2018/02/non_native_apps_threat_to_mac">
+    <img src="/assets/privacy/DaringFireball.png">
+  </a>
+  <a href="https://lifehacker.com/how-mac-apps-can-spy-on-your-computer-1822928525">
+    <img src="/assets/privacy/Lifehacker.png">
+  </a>
+</div>
+
+----
+
+## [trusting-sdks](/blog/trusting-sdks)
+
+Third-party SDKs can often easily be **modified** while you download them! Using a simple [person-in-the-middle attack](https://wikipedia.org/wiki/Man_in_the_middle_attack), anyone in the same network can insert malicious code into the SDK, and with that into your application, as a result running in your user's pockets. A person-in-the-middle attack in this context works by interfering network traffic and insert malicious code into the SDK.
+
+**31%** of the most popular closed-source iOS SDKs are vulnerable to this attack, as well as a total of **623 CocoaPods**. As part of this research I notified the affected parties, and submitted patches to CocoaPods to warn developers and SDK providers.
+
+## [Read the full blog post](/blog/trusting-sdks)
+
+----
+
+## [follow.user](/blog/follow-user)
+
+Custom in-app browsers in iOS apps have full access to the web content, including any JavaScript variables, the full HTML DOM and more. This allows apps to steal the user's sessions, passwords, keys and more. 
+
+## [Read the full blog post](/blog/follow-user)
 
 ----
 

@@ -12,46 +12,70 @@ meta: {}
 <h1 style="text-align: center; margin-bottom: 40px; margin-top: -50px">About Felix Krause</h1>
 
 <div id="leftCol">
-  <img src="/squarespace_images/static_545299aae4b0e9514fe30c95_t_578691ffebbd1a5ae283b29a_1468437013330__" width="400" style="margin-bottom: 10px" />
+  <img src="/assets/FelixKrauseSpeakingCut.jpg" width="290" style="margin-bottom: 10px" />
   <br />
   <p style="text-align: center;"><small style="">Felix Krause, creator of <a href="http://fastlane.tools" target="_blank">fastlane</a></small></p>
 </div>
 
 <div id="rightCol">
-  <p>I'm the founder of <a href="http://fastlane.tools" target="_blank">fastlane</a>, an open source tool for iOS and Android developers focussed on making building and releasing apps easier</p>
+  <p>I'm the founder of <a href="http://fastlane.tools" target="_blank">fastlane</a>, an open source tool for iOS and Android developers focussed on making building and releasing apps easier.</p>
 
-  <p>Just the last year, fastlane has saved over 10,000,000 <a href="https://krausefx.com/blog/fastlane-has-saved-over-1-million-developer-hours">developer hours</a> and is used by tens of thousands of companies around the world</p>
+  <p>Just the last year, fastlane has saved over 15,000,000 developer hours and is used by tens of thousands of companies around the world.</p>
+
+  <p>I move to a new place <a href="/blog/going-nomad">every month</a>.</p>
 
   <p><b>fastlane</b></p>
 
-  <p>I work on <a href="http://fastlane.tools" target="_blank">fastlane</a> at Google and previously Twitter in San Francisco</p>
+  <p>I work on <a href="http://fastlane.tools" target="_blank">fastlane</a> at Google and previously Twitter in San Francisco.</p>
 
   <p><b>Privacy research</b></p>
 
-  <p>I've published various privacy related essays on the iOS permission system. As a result my posts reached #1 on HackerNews and got covered by major media outlets - <a href="/privacy">Read more about my privacy publications</a>.</p>
+  <p>I've published various privacy related essays on the iOS permission system. As a result my posts reached #1 on HackerNews multiple times and got covered by major media outlets - <a href="/privacy">Read more about my privacy publications</a>.</p>
 
   <p><b>Open Source</b></p>
 
   <p>Additionally to <a href="http://fastlane.tools" target="_blank">fastlane</a>, I'm involved in other open source projects, like <a href="https://github.com/danger/danger" target="_blank">danger</a>.</p>
+
+  <p>I'm the founder of <a href="https://ios-factor.com" target="_blank">iOS-factor.com</a>, an open source best-practices guide on how to build high-quality iOS apps.</p>
 
   <p><b>Speaking</b></p>
 
   <p>I spoke at various conferences around the world, most recently Tokyo, Melbourne, Budapest, Bangalore, Vienna, Berlin and San Francisco. For speaking engagements get in touch with me using the form below. Check out my 
   <a href="https://github.com/krausefx/speaking" target="_blank">speaking schedule</a>.</p>
 
+  <p>To find my current location, as well as more information about my current activities, check out <a href="https://whereisfelix.today" target="_blank">WhereIsFelix.today</a></p>
+
   <p><b>Previous Work</b></p>
 
   <p>I've been working in many startups, like <a href="http://producthunt.com" target="_blank">Product Hunt</a>, <a href="http://mindnode.com" target="_blank">MindNode</a>, <a href="https://www.wunderlist.com" target="_blank">Wunderlist</a> and <a href="https://www.bikemap.net/" target="_blank">Bikemap</a>.</p>
-
-  <p><b>University</b></p>
-
-  <p>I graduated my Software Engineering degree at the University of Central Lancashire in the UK</p>
 </div>
 
+<hr style="margin-top: 25px" />
 
-<div style="width: 100%; float: left; margin-top: 20px">
-  <hr />
+<div class="felixkrauseSpeaking">
+  <a href="/assets/speaking/FelixKrause1.jpg" target="_blank">
+    <img src="/assets/speaking/FelixKrause1.jpg" alt="Felix Krause (KrauseFx) speaking at conference at Facebook Mobile at Scale in Tel Aviv, Israel" />
+  </a>
+  <a href="/assets/speaking/FelixKrause4.jpg" target="_blank">
+    <img src="/assets/speaking/FelixKrause4.jpg" alt="Felix Krause (KrauseFx) speaking at conference at trySwift in New York" />
+  </a>
+  <a href="/assets/speaking/FelixKrause2.jpg" target="_blank">
+    <img src="/assets/speaking/FelixKrause2.jpg" alt="Felix Krause (KrauseFx) speaking at conference at Facebook Mobile at Scale in Tel Aviv, Israel" />
+  </a>
+  <a href="/assets/speaking/FelixKrause5.jpg" target="_blank">
+    <img src="/assets/speaking/FelixKrause5.jpg" alt="Felix Krause (KrauseFx) speaking at conference at WeAreDevelopers in Vienna, Austria" />
+  </a>
+  <a href="/assets/speaking/FelixKrause3.jpg" target="_blank">
+    <img src="/assets/speaking/FelixKrause3.jpg" alt="Felix Krause (KrauseFx) speaking at conference at Facebook Mobile at Scale in Tel Aviv, Israel" />
+  </a>
+  <a href="/assets/speaking/FelixKrause6.jpg" target="_blank">
+    <img src="/assets/speaking/FelixKrause6.jpg" alt="Felix Krause (KrauseFx) speaking at conference at trySwift in New York" />
+  </a>
+</div>
 
+<hr />
+
+<div style="width: 100%; float: left; margin-top: 20px; margin-bottom: 20px;">
   <form id="contactform" method="POST" action="https://formspree.io/contact@krausefx.com">
     <p><b>Email Address</b></p>
     <input type="email" name="_replyto" placeholder="Your email address">
@@ -64,7 +88,27 @@ meta: {}
   </form>
 </div>
 
+<hr />
+<p style="text-align: right; color: #999">
+  WeAreDevelopers photos by Tamás Künsztler
+</p>
+
 <style type="text/css">
+  .felixkrauseSpeaking {
+    margin-top: 30px;
+    height: 310px;
+    width: 100%;
+    overflow-y: none;
+    overflow-x: scroll;
+    white-space: nowrap;
+  }
+
+  .felixkrauseSpeaking > a > img {
+    height: 300px;
+    width: auto;
+    max-width: none; /* to override page wide attribute */
+    display: inline-block;
+  }
   #contactform {
     padding-top: 30px;
   }
@@ -103,12 +147,20 @@ meta: {}
     margin-right: 30px;
     width: 100%;
     text-align: center;
-    height: 700px;
+  }
+  @media screen and (max-width: 800px) {
+    .felixkrauseSpeaking {
+      height: 190px;
+    }
+    .felixkrauseSpeaking > a > img {
+      height: 180px;
+    }
   }
   @media screen and (min-width: 800px) {
     #leftCol {
         width: 40%; 
         float: left;
+        height: 740px;
       }
     }
   }

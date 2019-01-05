@@ -16,7 +16,7 @@ meta: {}
 
 Any Mac app, sandboxed or not sandboxed can:
 
-- Take screenshots of your Mac silently without you knowning
+- Take screenshots of your Mac silently without you knowing
 - Access every pixel, even if the Mac app is in the background
 - Use basic [OCR software](https://en.wikipedia.org/wiki/Optical_character_recognition) to read the text on the screen
 - Access all connected monitors
@@ -66,3 +66,7 @@ NSBitmapImageRep *bitmapRep = [[NSBitmapImageRep alloc] initWithCGImage:screensh
 ```
 
 In my experiments, I piped the generated image over to a [OCR library](https://en.wikipedia.org/wiki/Optical_character_recognition) and was able to get all text that was rendered on the user's machine.
+
+## Similar projects I've worked on 
+
+I published more posts on how to access the camera, the user's location data, their Mac screen and their iCloud password, check out [krausefx.com/privacy](/privacy) for more.
